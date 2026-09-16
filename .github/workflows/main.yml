@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: cupnoodles7/javascript-action@main
+        uses: cupnoodles7/javascript-action@v1.1
         with:
           who-to-greet: cupnoodles
 
